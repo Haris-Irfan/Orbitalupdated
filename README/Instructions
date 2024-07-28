@@ -1,0 +1,7 @@
+// After extracting the files from the zip, run npm install to run the relevant dependencies needed for the application to function.
+// Run npx expo start and then press the i key to open your iphone simulator (on XCode)
+//If you run into any issues just run sudo npx expo start -c to clear your cache before starting the application
+//To use the application first click the signup page and key you new account details
+//after clicking sign up you will be directed back the login page where you key your email and password
+//you will then be directed to the directory page which is currently filled with placeholders
+//pressing the navigation tab will not redirect you the map and furm pages since they have not been set up yet.
